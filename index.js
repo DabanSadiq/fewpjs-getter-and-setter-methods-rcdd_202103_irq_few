@@ -26,7 +26,7 @@ class Circle {
     return pi * ( this.radius * this.radius )
   }
 
-  set area( area ) {
-    this.radius = Math.sqrt( area / pi )
+  // set area( area ) {
+  //   this.radius = Math.sqrt( area / pi )
   }
 }
